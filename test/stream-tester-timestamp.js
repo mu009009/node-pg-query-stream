@@ -1,4 +1,4 @@
-var pg = require('pg.js')
+var pg = require('pg')
 var QueryStream = require('../')
 var spec = require('stream-spec')
 var assert = require('assert')

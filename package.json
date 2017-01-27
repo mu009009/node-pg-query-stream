@@ -22,7 +22,6 @@
     "url": "https://github.com/brianc/node-pg-query-stream/issues"
   },
   "devDependencies": {
-    "pg.js": "*",
     "concat-stream": "~1.0.1",
     "through": "~2.3.4",
     "stream-tester": "0.0.5",
